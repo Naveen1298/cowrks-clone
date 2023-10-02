@@ -1,0 +1,16 @@
+.logoNavBar{
+    width: 120px;
+}
+
+.contactUs{
+    color: white;
+    background-color: #003462;
+}
+
+.size{
+    padding: 0px 200px;   
+    background-color: #f8f8f8;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}

@@ -1,0 +1,32 @@
+.container{
+ padding: 70px 200px;   
+ background-color: #f8f8f8;
+}
+
+.separator{
+    border-bottom: 2px solid orange;
+    width: 100%;
+}
+
+.heading{
+    font-weight: 700;
+    font-size: 35px;
+    color: #003462;
+    margin-bottom: 25px;
+}
+
+/* .Wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+   
+ } */
+
+ /* margin-bottom: 10px; */
+
+ /*
+.faqTitle{
+    margin-bottom: 20px;
+} */
+

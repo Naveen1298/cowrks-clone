@@ -1,0 +1,25 @@
+
+.container{
+    padding: 50px 200px;
+    background-color: #fcfcfc;
+}
+
+.form{
+    padding: 40px;
+}
+
+.border{
+    margin-top: 20px;
+    border: 1px solid #B0D9B1;
+    border-radius: 2px;
+}
+
+.formRow{
+    /* margin-bottom: 16px; */
+    justify-content: space-between;
+}
+
+.formField{
+    width: 530px;
+    margin: 30px 0px
+}

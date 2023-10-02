@@ -1,0 +1,51 @@
+.enquireSection{
+    display: flex;
+}
+
+.enquireImg{
+    height: 500px;
+    width: 480px;
+}
+
+.container{
+    padding: 70px 200px;
+    /* margin: 50px 0px; */
+}
+
+.button{
+    color: white;
+    background-color: #003462;
+    margin-top: 3px;
+}
+
+.viewButton{
+    color: white;
+    background-color: #003462;
+    margin: 3px 0px 0px 15px;
+    width: 250px;
+}
+
+.title{
+    color: #003462;
+    font-size: 36px;
+}
+
+p{
+    margin-top: 16px;
+}
+
+.details{
+    margin: 16px 16px 16px 0px;
+}
+
+.line{
+    border-left: 2px solid orange;
+    height: 80px;
+    margin: 23px;
+}
+
+.separator{
+    border-left: 2px solid orange;
+    height: 501px;
+    margin: 0px 15px;
+}

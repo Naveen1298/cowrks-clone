@@ -1,0 +1,29 @@
+
+.container{
+    padding: 70px 200px;
+    background-color: #f8f8f8; 
+}
+
+.officeSpaces{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+
+.buttonContainer{
+    min-width: 300px;
+}
+
+.button{
+    text-decoration: none;
+    border: white;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid;
+    text-align: left;
+    color: #003462;
+}
+
+.title{
+    color: #003462;
+    font-weight: 700;
+}
